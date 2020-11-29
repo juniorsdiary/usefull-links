@@ -73,6 +73,17 @@ Specialization
 1. [Jitsi]()
 1. Шаблоны игрового программирования
 1. Микросервисы. Паттерны разработки и рефакторинга
+1. Nest.js
+1. TypeScript
+1. MongoDB
+1. Mysql
+1. PostgreSQL
+1. Linux
+1. OOP
+1. HTTP
+1. Redis
+1. Kurento
+
 
 # По Плану развития
 Составить план на полгода-год
