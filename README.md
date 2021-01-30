@@ -7,7 +7,7 @@
 1. [Макеты для верстки](http://tpverstak.ru/psd-for-practice/)
 1. [Icons](https://www.freepik.com/free-icons/logo)
    
-### Documentation
+## Documentation
 1. [Devhints](https://devhints.io)
 1. [DevDocs](https://devdocs.io)
 1. [HackerRank](https://www.hackerrank.com)
@@ -21,13 +21,13 @@
 1. [WebRTC Infrastructure](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
 1. [WebRTC examples](https://webrtc.github.io/samples/)
 
-### Books
+## Books
 1. [Books](https://scanlibs.com)
 1. [???](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
 1. Шаблоны игрового программирования
 1. Микросервисы. Паттерны разработки и рефакторинга
 
-### Useful websites 
+## Useful websites 
 1. [Frontend books](http://frontendbookshelf.ru)
 1. [Smashing Magazine](https://www.smashingmagazine.com)
 1. [Site Point](https://www.sitepoint.com/html-css/)
@@ -45,35 +45,34 @@
 1. [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 1. [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
 
-### Specialization
+## Specialization
 1. [Kubernetes](hhtps://www.google.com)
-   
-### Blogs and articles to reed
+1. [FFmpeg](https://ffmpeg.org/ffmpeg.html)
+1. AWS
+1. Jitsi
+1. Kurento
+1. Nest.js
+1. TypeScript
+1. MongoDB
+1. Mysql
+1. Linux
+1. OOP
+1. HTTP
+1. Redis
+
+## Blogs and articles to reed
 1. [Security hacks](https://habr.com/ru/company/acribia/blog/493714/)
 1. [SOLID](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
-### New technologies to try
+## New technologies to try
 1. [Apollo](https://www.apollographql.com/docs/react/api/apollo-client/)
 1. [GraphQL](https://graphql.org/learn/)
 1. [grpc](https://grpc.io/docs/languages/node/quickstart/)
-1. [FFmpeg](https://ffmpeg.org/ffmpeg.html)
 1. [Jest](https://jestjs.io)
 1. [Enzyme](https://airbnb.io/enzyme/)
 1. [Polished](https://polished.js.org)
 1. [Ramda](https://ramdajs.com)
 1. [Styled Components](https://www.styled-components.com)
-1. AWS
-1. Jitsi
-1. Nest.js
-1. TypeScript
-1. MongoDB
-1. Mysql
-1. PostgreSQL
-1. Linux
-1. OOP
-1. HTTP
-1. Redis
-1. Kurento
 1. Mint
 1. Hagen
 1. PWA
