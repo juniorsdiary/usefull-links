@@ -40,6 +40,7 @@
 1. [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 1. [JS must watch](https://github.com/bolshchikov/js-must-watch)
 1. [Computer Graphics](http://compgraph.tpu.ru/Software.htm)
+1. [Public APIs](https://devresourc.es/tools-and-utilities/public-apis)
 
 ## Utils for Linux
 1. [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
@@ -80,3 +81,8 @@
 1. Micro frontends with webpack
 1. Server Components/Concurrent Mode/Suspense React
 1. Babylon.js
+1. Tachyons css
+1. Tailwind
+1. Burma
+1. Chakra hi
+1. Zenbot
