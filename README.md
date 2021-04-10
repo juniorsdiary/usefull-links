@@ -64,25 +64,3 @@
 ## Blogs and articles to reed
 1. [Security hacks](https://habr.com/ru/company/acribia/blog/493714/)
 1. [SOLID](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
-
-## New technologies to try
-1. [Apollo](https://www.apollographql.com/docs/react/api/apollo-client/)
-1. [GraphQL](https://graphql.org/learn/)
-1. [grpc](https://grpc.io/docs/languages/node/quickstart/)
-1. [Jest](https://jestjs.io)
-1. [Enzyme](https://airbnb.io/enzyme/)
-1. [Polished](https://polished.js.org)
-1. [Ramda](https://ramdajs.com)
-1. [Styled Components](https://www.styled-components.com)
-1. Mint
-1. Hagen
-1. PWA
-1. AR/VR в бразуере
-1. Micro frontends with webpack
-1. Server Components/Concurrent Mode/Suspense React
-1. Babylon.js
-1. Tachyons css
-1. Tailwind
-1. Burma
-1. Chakra hi
-1. Zenbot
