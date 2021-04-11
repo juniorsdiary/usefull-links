@@ -12,30 +12,31 @@
 1. Nextjs
 1. AWS (EC2, Lambda, S3, Route 53)
 1. Typescript
-1. Fastify
 1. Docker
 1. Linux
 1. FFmpeg
 1. Kurento
 1. Jitsi
-1. Mediasoup
 1. Webrtc
 1. Node.js
-1. GraphQL
+1. StyledComponents
+1. [Jest](https://jestjs.io)
+1. [Enzyme](https://airbnb.io/enzyme/)
+1. [Polished](https://polished.js.org)
+1. [Ramda](https://ramdajs.com)
+
+
+1. Fastify
+1. Mediasoups
 1. CI/CD
 1. Authorization
 1. Authentication
 1. RabbitMQ
 1. Two factor authentication
-1. StyledComponents
 1. NATS
 1. [Apollo](https://www.apollographql.com/docs/react/api/apollo-client/)
-1. [GraphQL](https://graphql.org/learn/)
 1. [grpc](https://grpc.io/docs/languages/node/quickstart/)
-1. [Jest](https://jestjs.io)
-1. [Enzyme](https://airbnb.io/enzyme/)
-1. [Polished](https://polished.js.org)
-1. [Ramda](https://ramdajs.com)
+1. [GraphQL](https://graphql.org/learn/)
 1. Mint
 1. Hagen
 1. AR/VR в бразуере
