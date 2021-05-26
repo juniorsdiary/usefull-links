@@ -1,53 +1,24 @@
-is.js https://github.com/arasatasaygin/is.js
-https://github.com/streamich/react-use
+1. [is.js](https://github.com/arasatasaygin/is.js) 
+1. [react-use](https://github.com/streamich/react-use)
+1. [Pass-meter](https://github.com/syntaqx/pass-meter)
+1. [anime](https://github.com/juliangarnier/anime)
+1. [animejs](https://animejs.com/)
+1. [leaflet](https://leafletjs.com/)
+1. [fullpage](https://alvarotrigo.com/fullPage/)
+1. [screenfull](https://github.com/sindresorhus/screenfull.js)
+1. [hammer.js](http://hammerjs.github.io/)
+1. [masonry](https://masonry.desandro.com/)
+1. [d3](https://d3js.org/)
+1. [slick](https://kenwheeler.github.io/slick/)
+1. [popper](https://popper.js.org/)
+1. [Multer](https://www.npmjs.com/package/multer)
+1. [Morgan](https://www.npmjs.com/package/morgan)
+1. [Errors](https://www.npmjs.com/package/http-errors)
+1. [Faker](https://www.npmjs.com/package/faker)
+1. [Nodemailer](https://www.npmjs.com/package/nodemailer)
+1. [sequelize](https://www.npmjs.com/package/sequelize)
+1. [Chulk](https://www.npmjs.com/package/chalk)
+1. [Helmet](https://www.npmjs.com/package/helmet)
+1. [Ext JS](https://www.sencha.com/products/extjs/)
 
-Pass-meter https://github.com/syntaqx/pass-meter
-
-https://github.com/juliangarnier/anime
-
-https://animejs.com/
-
-leaflet https://leafletjs.com/
-
-fullpage https://alvarotrigo.com/fullPage/
-
-screenfull https://github.com/sindresorhus/screenfull.js
-
-hammer.js
-http://hammerjs.github.io/
-
-masonry https://masonry.desandro.com/
-
-d3
-https://d3js.org/
-
-slick
-https://kenwheeler.github.io/slick/
-
-popper
-https://popper.js.org/
-
-Multer
-https://www.npmjs.com/package/multer
-
-Morgan
-https://www.npmjs.com/package/morgan
-
-Errors
-https://www.npmjs.com/package/http-errors
-
-Faker
-https://www.npmjs.com/package/faker
-
-Nodemailer
-https://www.npmjs.com/package/nodemailer
-
-sequelize
-https://www.npmjs.com/package/sequelize
-
-Chulk
-https://www.npmjs.com/package/chalk
-
-Helmet
-https://www.npmjs.com/package/helmet
 

@@ -27,12 +27,12 @@
 
 
 1. Fastify
-1. Mediasoups
+1. Mediasoup
 1. CI/CD
 1. Authorization
 1. Authentication
-1. RabbitMQ
 1. Two factor authentication
+1. RabbitMQ
 1. NATS
 1. [Apollo](https://www.apollographql.com/docs/react/api/apollo-client/)
 1. [grpc](https://grpc.io/docs/languages/node/quickstart/)
@@ -50,4 +50,6 @@
 1. OOP
 1. Kubernetes
 1. Unit testing
-1. NGINX
+1. NGINX 
+1. Responsively App
+1. Compressior.io

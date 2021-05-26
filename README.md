@@ -64,3 +64,4 @@
 ## Blogs and articles to reed
 1. [Security hacks](https://habr.com/ru/company/acribia/blog/493714/)
 1. [SOLID](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+1. [web.dev](https://web.dev/)
